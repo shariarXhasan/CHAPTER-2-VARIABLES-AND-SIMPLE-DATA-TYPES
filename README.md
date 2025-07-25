@@ -1,0 +1,2 @@
+# CHAPTER-2-VARIABLES-AND-SIMPLE-DATA-TYPES
+Python variable..
